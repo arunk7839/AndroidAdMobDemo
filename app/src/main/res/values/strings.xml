@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidAdMobDemo</string>
+    <string name="title_activity_interstitial_ad">InterstitialAdActivity</string>
+</resources>
